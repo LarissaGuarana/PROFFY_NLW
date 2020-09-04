@@ -20,10 +20,10 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="public/images/paginainicial.jpeg" width="700" >
-  <img src="public/images/daraulas1.PNG" width="700" >
-  <img src="public/images/daraulas2.PNG" width="700" >
-  <img src="public/images/escolherproffy.PNG" width="700" >
+  <img src="./public/images/paginainicial.jpeg" width="700" >
+  <img src="./public/images/daraulas1.PNG" width="700" >
+  <img src="./public/images/daraulas2.PNG" width="700" >
+  <img src="./public/images/escolherproffy.PNG" width="700" >
 </p>
 
 ---
